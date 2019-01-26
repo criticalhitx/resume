@@ -1,5 +1,6 @@
 body {
 	background-color:#A2EAE2;
+	font-size:12px;
 }
 hr {
 	border-style:none;
@@ -7,4 +8,8 @@ hr {
 	border-color:grey;
 	border-width:10px;
 	width:20%;
+}
+
+p{
+
 }
